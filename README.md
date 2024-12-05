@@ -2,7 +2,7 @@
 A simple .bat file and Shortcut to launch a preconfigured version of CustomRP by maximmax42
 
 # Install Instructions 
-- Download Infinity Nikki from infinitynikki.infoldgames.com
+- Download Infinity Nikki from [infinitynikki.infoldgames.com](https://infinitynikki.infoldgames.com/)
 - Download CustomRP from https://www.customrp.xyz/
 - Download the "Code" from the Git by clicking the 3 dots and download code or from the releases
 - Unzip the file
