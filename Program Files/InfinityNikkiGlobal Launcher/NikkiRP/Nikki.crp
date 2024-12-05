@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1314012477188735046</ID>
+  <Type>0</Type>
+  <Details />
+  <State>Exploring Miraland</State>
+  <PartySize>0</PartySize>
+  <PartyMax>0</PartyMax>
+  <Timestamps>1</Timestamps>
+  <CustomTimestamp>2024-12-05T09:22:00.4890418-05:00</CustomTimestamp>
+  <LargeKey>embedded_background</LargeKey>
+  <LargeText />
+  <SmallKey />
+  <SmallText />
+  <Button1Text>Join!</Button1Text>
+  <Button1URL>https://infinitynikki.infoldgames.com/</Button1URL>
+  <Button2Text />
+  <Button2URL />
+</Preset>
